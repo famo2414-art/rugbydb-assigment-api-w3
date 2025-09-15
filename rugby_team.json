@@ -1,0 +1,12 @@
+[
+  { "_id": 1, "name": "Beauden Barrett", "position": "Fullback", "age": 33, "height_cm": 182, "weight_kg": 89, "matches_played": 120 },
+  { "_id": 2, "name": "Richie Mo'unga", "position": "Fly-half", "age": 30, "height_cm": 178, "weight_kg": 86, "matches_played": 50 },
+  { "_id": 3, "name": "Ardie Savea", "position": "Number 8", "age": 31, "height_cm": 189, "weight_kg": 110, "matches_played": 80 },
+  { "_id": 4, "name": "Brodie Retallick", "position": "Lock", "age": 33, "height_cm": 206, "weight_kg": 120, "matches_played": 90 },
+  { "_id": 5, "name": "Cody Taylor", "position": "Hooker", "age": 33, "height_cm": 183, "weight_kg": 110, "matches_played": 70 },
+  { "_id": 6, "name": "Aaron Smith", "position": "Scrum-half", "age": 36, "height_cm": 175, "weight_kg": 83, "matches_played": 130 },
+  { "_id": 7, "name": "Damian McKenzie", "position": "Fly-half", "age": 29, "height_cm": 178, "weight_kg": 83, "matches_played": 60 },
+  { "_id": 8, "name": "Scott Barrett", "position": "Lock", "age": 31, "height_cm": 197, "weight_kg": 115, "matches_played": 65 },
+  { "_id": 9, "name": "Sam Cane", "position": "Flanker", "age": 32, "height_cm": 191, "weight_kg": 105, "matches_played": 85 },
+  { "_id": 10, "name": "Rieko Ioane", "position": "Wing", "age": 27, "height_cm": 191, "weight_kg": 98, "matches_played": 45 }
+]
